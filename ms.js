@@ -24,4 +24,11 @@ function run(){
 		document.write("<img src="+autourl[i]+"/"+Math.random()+" width=1 height=1 onerror=auto('"+autourl[i]+"') style='display:none'>");
 	}
 }
+
+
+
+
+
+
+
 run()
